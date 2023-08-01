@@ -1,3 +1,8 @@
 primeiro texto aula 1 em dupla
 segundo texto
+ HEAD
 alteração julia
+=======
+
+Alteração feita - Gustavo
+a26771a61d457496cb3b152fd251b215a4bace96
